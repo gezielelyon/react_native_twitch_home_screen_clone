@@ -6,7 +6,7 @@
 ![React Native](https://img.shields.io/badge/ReactNative-components-red)
 ![Styled Components](https://img.shields.io/badge/StyledComponents-Styles-blue)
 
-# Dashboard Twitter
+# React-Native Dashboard Twitter
 This project contain a dashboard twitter clone created with React-Native
 
 ## Technologies Used:
