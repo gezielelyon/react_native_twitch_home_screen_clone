@@ -9,11 +9,11 @@
 # React native Twitch homepage clone
 This project is just the Twitch's homepage clone.
 
-## Technologies:
+## Technologies
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) (Language)
 - [React Native](https://reactnative.dev/) (Components)
 - [Styled Components](https://styled-components.com/) (Styles)
 
-### Image:
+### Image
 ![Capture1](https://user-images.githubusercontent.com/48457700/97953865-8c316980-1d80-11eb-9743-38eb8f21ce50.JPG)
 ![Capture2](https://user-images.githubusercontent.com/48457700/97953658-ef6ecc00-1d7f-11eb-8ed1-421b6a3a72f9.JPG)
